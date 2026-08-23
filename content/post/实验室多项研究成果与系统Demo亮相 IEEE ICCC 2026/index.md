@@ -5,7 +5,7 @@ tags:
   - forum
 ---
 
-团队多项研究成果与系统Demo亮相 IEEE ICCC 2026
+喜讯 | 团队多项研究成果与系统Demo亮相 IEEE ICCC 2026
 
 <!--more-->
 
