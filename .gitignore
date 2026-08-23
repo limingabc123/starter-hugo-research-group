@@ -5,3 +5,9 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Spec workflow internal data
+.spec-workflow/
