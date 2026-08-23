@@ -4,6 +4,7 @@ date: 2025-09-12
 tags:
   - paper
   - forum
+  - expired
 ---
 
 UNIC实验室孙路路同学、周淙浩老师参加WCSP国际会议并荣获最佳论文奖
