@@ -41,6 +41,17 @@ sections:
               brightness: 0.7
           position: center
           color: '#fff'
+          
+      - title: <div style="user-select:none;">电磁空间智能孪生及其应用</div>
+        content: <div style="margin-top:60px; margin-bottom:40px; font-size:12pt; width:65%; height:180px; color:#fff; text-indent:2em;"><div style="display:inline-block; position:relative; top:50%; -webkit-transform:translateY(-50%);user-select:none;"><p>电磁空间智能孪生依托数字建模、智能感知与闭环推演，构建电磁频谱的高保真系统，融合通信、雷达、感知、计算与对抗多维信息，实现电磁环境的可视呈现、精准建模、实时推演。该技术能够复现复杂动态的电磁环境演化过程，对信号分布、干扰态势、频谱占用状态进行动态感知与仿真复现。</p><p style="margin-top:-1.2vh;">在民用领域，可支撑无线通信网络规划优化、复杂城市环境下频谱资源管理、车联网与物联网电磁环境评估；在国防与安全领域，用于电磁态势感知、电子对抗仿真推演、雷达组网效能评估、复杂场景电磁风险预演，为频谱管控、策略研判与系统效能验证提供重要技术支撑。</p></div></div>
+        align: left
+        background:
+          image:
+            filename: dianci.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#fff'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '600px'
