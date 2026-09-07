@@ -4,6 +4,7 @@ date: 2025-10-16
 tags:
   - paper
   - forum
+  - expired
 ---
 
 祝贺承楠教授在2025年第十七届WCSP国际会议荣获最佳论文奖
