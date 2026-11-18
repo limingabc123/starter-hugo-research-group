@@ -179,13 +179,18 @@
     </td>
     <td style="position: relative; width: 12%; text-align: center;">
         <span class="article-metadata li-cite-author seminar-presenter" 
-            style="width: 100%; text-align: center;">
-            待补充
-        </span>
+            style="width: 100%; text-align: center;">张岳</span>
     </td>
     <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
         <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
         <p style="display: inline-block; margin: 0;">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" 
+        href="/seminar/materials/20260706/张岳_面向XL-MIMO网络的泛化波束无线地图正向构建方法研究.pptx"
+        target="_blank" rel="noopener"
+        style="vertical-align: middle; 0;">
+        PPT
+    </a>
+</p><p style="display: inline-block; margin: 0;">
     <a class="btn btn-outline-primary btn-page-header btn-sm" 
         href="/seminar/materials/20260706/面向XL-MIMO网络的泛化波束无线地图正向构建方法研究_会议纪要.docx"
         target="_blank" rel="noopener"
