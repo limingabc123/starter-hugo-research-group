@@ -7,6 +7,7 @@ first_name: 李
 last_name: 2026
 
 superuser: false
+avatar_anchor: Top
 
 # 博士研究生/硕士研究生/本科生/校友（工作单位）
 role: 2026级博士研究生<br>智能网络<br>&nbsp;<br>
