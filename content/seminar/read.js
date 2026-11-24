@@ -1,10 +1,11 @@
 async function read() {
     try {
-        let response = await fetch('https://unicxidian.org/seminar_list/content.txt');
+        let response = await fetch('/seminar_list/content.txt?v=20261124', { cache: 'no-store' });
+        if (!response.ok) throw new Error('Failed to load seminar list: ' + response.status);
         let fileContent = await response.text();
 
         // if (fileContent == undefined) {
-        //     response = await fetch('https://unicxidian.org/seminar_list/content.txt');
+        //     response = await fetch('/seminar_list/content.txt?v=20261124', { cache: 'no-store' });
         //     fileContent = await response.text();
         // }
 
