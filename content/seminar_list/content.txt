@@ -38,6 +38,40 @@
     <td style="position: relative; width: 15%; text-align: center;">
         <span class="article-metadata li-cite-author" 
             style="width: 100%; text-align: center;">
+            <span class="seminar-date">2026-11-24</span>
+        </span>
+    </td>
+    <td style="position: relative; width: 12%; text-align: center;">
+        <span class="article-metadata li-cite-author seminar-presenter" 
+            style="width: 100%; text-align: center;">
+            刘仲锴
+        </span>
+    </td>
+    <td class="seminar-topic" style="position: relative; width: 73%; text-align: left; vertical-align: middle;">
+        <p class="seminar-table-tab" style="display: inline-block; margin: 0; margin-left: 1.5rem;"></p>
+        <p style="display: inline-block; margin: 0;">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" 
+        href="/seminar/materials/20261124/刘仲锴_基于历史稀疏观测的星地电磁地图潜空间预测方法.pptx"
+        target="_blank" rel="noopener"
+        style="vertical-align: middle; 0;">
+        PPT
+    </a>
+</p><p style="display: inline-block; margin: 0;">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" 
+        href="/seminar/materials/20261124/基于历史稀疏观测的星地电磁地图潜空间预测方法_会议纪要.docx"
+        target="_blank" rel="noopener"
+        style="vertical-align: middle; 0;">
+        Note
+    </a>
+</p>
+        <p class="seminar-title-container" style="max-width: 77%">
+            <span class="seminar-title">基于历史稀疏观测的星地电磁地图潜空间预测方法</span>
+        </p>
+    </td>
+</tr><tr class="year-2026">
+    <td style="position: relative; width: 15%; text-align: center;">
+        <span class="article-metadata li-cite-author" 
+            style="width: 100%; text-align: center;">
             <span class="seminar-date">2026-11-16</span>
         </span>
     </td>
